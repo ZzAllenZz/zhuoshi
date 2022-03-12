@@ -1,0 +1,91 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="71">
+            <item index="0" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="1" class="java.lang.String" itemvalue="vnpy_riskmanager" />
+            <item index="2" class="java.lang.String" itemvalue="vnpy_tinysoft" />
+            <item index="3" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="4" class="java.lang.String" itemvalue="vnpy_tap" />
+            <item index="5" class="java.lang.String" itemvalue="qdarkstyle" />
+            <item index="6" class="java.lang.String" itemvalue="vnpy_postgresql" />
+            <item index="7" class="java.lang.String" itemvalue="vnpy_ctabacktester" />
+            <item index="8" class="java.lang.String" itemvalue="vnpy_comstar" />
+            <item index="9" class="java.lang.String" itemvalue="vnpy_da" />
+            <item index="10" class="java.lang.String" itemvalue="vnpy_ctp" />
+            <item index="11" class="java.lang.String" itemvalue="vnpy_chartwizard" />
+            <item index="12" class="java.lang.String" itemvalue="vnpy_ifind" />
+            <item index="13" class="java.lang.String" itemvalue="vnpy_portfoliostrategy" />
+            <item index="14" class="java.lang.String" itemvalue="vnpy_rqdata" />
+            <item index="15" class="java.lang.String" itemvalue="rqdatac" />
+            <item index="16" class="java.lang.String" itemvalue="ibapi" />
+            <item index="17" class="java.lang.String" itemvalue="vnpy_hft" />
+            <item index="18" class="java.lang.String" itemvalue="vnpy_mongodb" />
+            <item index="19" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="20" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="21" class="java.lang.String" itemvalue="vnpy_ctastrategy" />
+            <item index="22" class="java.lang.String" itemvalue="PyCryptodome" />
+            <item index="23" class="java.lang.String" itemvalue="QScintilla" />
+            <item index="24" class="java.lang.String" itemvalue="vnpy_websocket" />
+            <item index="25" class="java.lang.String" itemvalue="vnpy_optionmaster" />
+            <item index="26" class="java.lang.String" itemvalue="vnpy_uft" />
+            <item index="27" class="java.lang.String" itemvalue="vnpy_webtrader" />
+            <item index="28" class="java.lang.String" itemvalue="vnpy_datarecorder" />
+            <item index="29" class="java.lang.String" itemvalue="vnpy_influxdb" />
+            <item index="30" class="java.lang.String" itemvalue="vnpy_tushare" />
+            <item index="31" class="java.lang.String" itemvalue="pyqtgraph" />
+            <item index="32" class="java.lang.String" itemvalue="vnpy_wind" />
+            <item index="33" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="34" class="java.lang.String" itemvalue="vnpy_portfoliomanager" />
+            <item index="35" class="java.lang.String" itemvalue="vnpy_sqlite" />
+            <item index="36" class="java.lang.String" itemvalue="vnpy_esunny" />
+            <item index="37" class="java.lang.String" itemvalue="vnpy_ost" />
+            <item index="38" class="java.lang.String" itemvalue="vnpy_ctptest" />
+            <item index="39" class="java.lang.String" itemvalue="vnpy_rohon" />
+            <item index="40" class="java.lang.String" itemvalue="vnpy_femas" />
+            <item index="41" class="java.lang.String" itemvalue="vnpy_hts" />
+            <item index="42" class="java.lang.String" itemvalue="vnpy_mysql" />
+            <item index="43" class="java.lang.String" itemvalue="numpy" />
+            <item index="44" class="java.lang.String" itemvalue="vnpy_excelrtd" />
+            <item index="45" class="java.lang.String" itemvalue="wmi" />
+            <item index="46" class="java.lang.String" itemvalue="seaborn" />
+            <item index="47" class="java.lang.String" itemvalue="vnpy_tqsdk" />
+            <item index="48" class="java.lang.String" itemvalue="vnpy_tts" />
+            <item index="49" class="java.lang.String" itemvalue="vnpy_tora" />
+            <item index="50" class="java.lang.String" itemvalue="vnpy_paperaccount" />
+            <item index="51" class="java.lang.String" itemvalue="vnpy_xtp" />
+            <item index="52" class="java.lang.String" itemvalue="vnpy_leveldb" />
+            <item index="53" class="java.lang.String" itemvalue="deap" />
+            <item index="54" class="java.lang.String" itemvalue="vnpy_ib" />
+            <item index="55" class="java.lang.String" itemvalue="vnpy_rest" />
+            <item index="56" class="java.lang.String" itemvalue="six" />
+            <item index="57" class="java.lang.String" itemvalue="exchange-calendars" />
+            <item index="58" class="java.lang.String" itemvalue="vnpy_algotrading" />
+            <item index="59" class="java.lang.String" itemvalue="vnpy_datamanager" />
+            <item index="60" class="java.lang.String" itemvalue="plotly" />
+            <item index="61" class="java.lang.String" itemvalue="vnpy_spreadtrading" />
+            <item index="62" class="java.lang.String" itemvalue="vnpy_sopt" />
+            <item index="63" class="java.lang.String" itemvalue="pandas" />
+            <item index="64" class="java.lang.String" itemvalue="vnpy_udata" />
+            <item index="65" class="java.lang.String" itemvalue="ta-lib" />
+            <item index="66" class="java.lang.String" itemvalue="vnpy_mini" />
+            <item index="67" class="java.lang.String" itemvalue="vnpy_scripttrader" />
+            <item index="68" class="java.lang.String" itemvalue="vnpy_rpcservice" />
+            <item index="69" class="java.lang.String" itemvalue="vnpy_dolphindb" />
+            <item index="70" class="java.lang.String" itemvalue="vnpy_sec" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="vnpy_rpcservice" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
